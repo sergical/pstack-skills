@@ -1,0 +1,25 @@
+# Upstream ids imported from cursor/plugins/pstack. One per line: "skill <id>" or "agent <id>".
+skill blast-radius
+skill unslop
+skill why
+skill interrogate
+skill typescript-best-practices
+skill show-me-your-work
+skill arena
+skill how
+skill recall
+skill no-comments
+skill teach
+skill technical-writing
+skill tdd
+skill architect
+skill reflect
+skill principle-fix-root-causes
+skill principle-redesign-from-first-principles
+skill principle-encode-lessons-in-structure
+skill principle-sequence-verifiable-units
+skill principle-migrate-callers-then-delete-legacy-apis
+skill principle-laziness-protocol
+skill principle-subtract-before-you-add
+skill principle-prove-it-works
+agent comment-sicko
